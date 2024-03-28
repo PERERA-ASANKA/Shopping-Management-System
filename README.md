@@ -10,8 +10,8 @@ This project is an online shopping management system built with Java and Object-
 
 ## Technologies used
 
-**Programming language:** Java
-**GUI framework:** Swing
+**Programming language:** Java  
+**GUI framework:** Swing  
 
 ## Contact
 
