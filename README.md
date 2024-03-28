@@ -4,14 +4,14 @@ This project is an online shopping management system built with Java and Object-
 
 ## Key features
 
--unique user login and manager login
--manager can handle products by adding or removing products
--user can buy products
+- unique user login and manager login
+- manager can handle products by adding or removing products
+- user can buy products
 
 ## Technologies used
 
--Programming language : Java
--GUI framework : Swing
+**Programming language :** Java
+**GUI framework :** Swing
 
 ## Contact
 
